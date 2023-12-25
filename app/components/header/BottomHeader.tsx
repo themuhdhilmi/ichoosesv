@@ -21,6 +21,9 @@ const BottomHeader = () => {
           </button>
         </div>
         : ''}
+
+        <div className='text-center text-gray-600 text-xs'>Develop by Gementar Team</div>
+        <div className='py-12'></div>
     </>
   )
 }
